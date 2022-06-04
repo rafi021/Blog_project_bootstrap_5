@@ -15,3 +15,13 @@ header{
     color: #0DCAF0 !important;
 }
 
+.card img{
+    filter: grayscale(70%);
+    transition: all 0.4s;
+}
+
+.card:hover img{
+    filter: grayscale(0%);
+    transform: scale(1.1);
+}
+
