@@ -2,6 +2,13 @@
 
 body{
     font-family: 'Nunito', sans-serif;
+    background-color: #fafbfe;
+}
+
+header{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)) ,url('../media/hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .nav-link.active{
