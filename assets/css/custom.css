@@ -25,3 +25,8 @@ header{
     transform: scale(1.1);
 }
 
+.author-widget img{
+    height: 150px;
+    width: 150px;
+}
+
